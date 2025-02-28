@@ -1,4 +1,4 @@
-# Aidan's Web Tool
+# FullStackGPT
 
 An AI-assisted web development tool that leverages Large Language Models (LLMs) to generate, modify, and fix code for web applications.
 
@@ -15,8 +15,8 @@ An AI-assisted web development tool that leverages Large Language Models (LLMs) 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/aidans-web-tool.git
-   cd aidans-web-tool
+   git clone https://github.com/AidanMercer/fullstackgpt.git
+   cd fullstackgpt
    ```
 
 2. Install dependencies:
